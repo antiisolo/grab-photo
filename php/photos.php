@@ -1,0 +1,3 @@
+<?php
+
+	if (!$getfiles = op
