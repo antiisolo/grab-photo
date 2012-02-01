@@ -1,0 +1,1 @@
+A quick PHP file to look in a directory for jpgs, and output them with img src command. Real basic and easy to config to look for other files, besides photos.
